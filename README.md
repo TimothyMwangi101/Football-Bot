@@ -22,7 +22,7 @@ A simple bot that loves football. Can be run on be run as a discord bot or purel
 
 ## Configuration
 1. Make the bot
-    [Link Text](https://discord.com/developers/applications){:target="_blank"}
+    [Discord app](https://discord.com/developers/applications)
 
 2. Get an open ai key
-    [Link Text](https://platform.openai.com/docs/api-reference/introduction){:target="_blank"}
+    [Open ai api](https://platform.openai.com/docs/api-reference/introduction)
