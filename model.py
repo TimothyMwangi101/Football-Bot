@@ -19,7 +19,7 @@ def read_file(file: str) -> str:
         return f.read()
 
 client = OpenAI(api_key=read_file("API_Key.txt"))
-file = os.path.abspath("tuning_questions.jsonl")
+file = os.path.abspath("tuning_data.jsonl")
 """Default Training File"""
 
 def fine_tune_model(questions: str = file, check_existing_model = True) -> str | None:
