@@ -2,7 +2,8 @@
 Football Ultra Discord Bot
 -----
 
-A simple bot that loves football. Can be run on be run as a discord bot or purely on the console
+- A simple bot that loves football. Can be run on be run as a discord bot or purely on the console
+- [Add The bot to your channel](https://discord.com/oauth2/authorize?client_id=1334012471157067776)
 
 ## Table of Contents
 - [Dependancies](#Dependancies)
